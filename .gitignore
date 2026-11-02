@@ -3,4 +3,5 @@ __pycache__/
 *.spec
 .venv-build/
 build/
+build-*/
 dist/

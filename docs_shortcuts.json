@@ -1,0 +1,1225 @@
+{
+  "source": "https://support.google.com/docs/answer/179738?hl=en",
+  "checked_date": "2026-11-02",
+  "platform": "Windows Chrome",
+  "commands": [
+    {
+      "id": "PC_001",
+      "category": "Common actions",
+      "name": "Copy",
+      "shortcut": "Ctrl + c",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_002",
+      "category": "Common actions",
+      "name": "Cut",
+      "shortcut": "Ctrl + x",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_003",
+      "category": "Common actions",
+      "name": "Paste",
+      "shortcut": "Ctrl + v",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_004",
+      "category": "Common actions",
+      "name": "Paste without formatting",
+      "shortcut": "Ctrl + Shift + v",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_005",
+      "category": "Common actions",
+      "name": "Undo",
+      "shortcut": "Ctrl + z",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_006",
+      "category": "Common actions",
+      "name": "Redo",
+      "shortcut": "Ctrl + Shift + z",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_007",
+      "category": "Common actions",
+      "name": "Insert or edit link",
+      "shortcut": "Ctrl + k",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_008",
+      "category": "Common actions",
+      "name": "Open link",
+      "shortcut": "Alt + Enter",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_009",
+      "category": "Common actions",
+      "name": "Show common keyboard shortcuts",
+      "shortcut": "Ctrl + /",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_010",
+      "category": "Common actions",
+      "name": "Save",
+      "shortcut": "Ctrl + s",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_011",
+      "category": "Common actions",
+      "name": "Print",
+      "shortcut": "Ctrl + p",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_012",
+      "category": "Common actions",
+      "name": "Open",
+      "shortcut": "Ctrl + o",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_013",
+      "category": "Common actions",
+      "name": "Find",
+      "shortcut": "Ctrl + f",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_014",
+      "category": "Common actions",
+      "name": "Find and replace",
+      "shortcut": "Ctrl + h",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_015",
+      "category": "Common actions",
+      "name": "Find again",
+      "shortcut": "Ctrl + g",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_016",
+      "category": "Common actions",
+      "name": "Find previous",
+      "shortcut": "Ctrl + Shift + g",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_017",
+      "category": "Common actions",
+      "name": "Hide the menus (compact mode)",
+      "shortcut": "Ctrl + Shift + f",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_018",
+      "category": "Common actions",
+      "name": "Insert page break",
+      "shortcut": "Ctrl + Enter",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_019",
+      "category": "Common actions",
+      "name": "Tool finder(formerly Search the menus)",
+      "shortcut": "Alt + /\n\n Alt + Shift + z\n\n Google Chrome: Alt + z",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_020",
+      "category": "Common actions",
+      "name": "Repeat last action",
+      "shortcut": "Ctrl + y",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_021",
+      "category": "Common actions",
+      "name": "Switch to editing",
+      "shortcut": "Ctrl + Alt + Shift + z",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_022",
+      "category": "Common actions",
+      "name": "Switch to suggesting",
+      "shortcut": "Ctrl + Alt + Shift + x",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_023",
+      "category": "Common actions",
+      "name": "Switch to viewing",
+      "shortcut": "Ctrl + Alt + Shift + c",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_024",
+      "category": "Common actions",
+      "name": "Zoom in",
+      "shortcut": "Ctrl + +",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_025",
+      "category": "Common actions",
+      "name": "Zoom out",
+      "shortcut": "Ctrl + -",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_026",
+      "category": "Common actions",
+      "name": "Zoom 100%",
+      "shortcut": "Ctrl + 0",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_027",
+      "category": "Text formatting",
+      "name": "Bold",
+      "shortcut": "Ctrl + b",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_028",
+      "category": "Text formatting",
+      "name": "Italicize",
+      "shortcut": "Ctrl + i",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_029",
+      "category": "Text formatting",
+      "name": "Underline",
+      "shortcut": "Ctrl + u",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_030",
+      "category": "Text formatting",
+      "name": "Strikethrough",
+      "shortcut": "Alt + Shift + 5",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_031",
+      "category": "Text formatting",
+      "name": "Superscript",
+      "shortcut": "Ctrl + .",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_032",
+      "category": "Text formatting",
+      "name": "Subscript",
+      "shortcut": "Ctrl + ,",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_033",
+      "category": "Text formatting",
+      "name": "Copy text formatting",
+      "shortcut": "Ctrl + Alt + c",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_034",
+      "category": "Text formatting",
+      "name": "Paste text formatting",
+      "shortcut": "Ctrl + Alt + v",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_035",
+      "category": "Text formatting",
+      "name": "Clear text formatting",
+      "shortcut": "Ctrl + \\\n\n Ctrl + Space",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_036",
+      "category": "Text formatting",
+      "name": "Increase font size",
+      "shortcut": "Ctrl + Shift + .",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_037",
+      "category": "Text formatting",
+      "name": "Decrease font size",
+      "shortcut": "Ctrl + Shift + ,",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_038",
+      "category": "Text formatting",
+      "name": "Small caps",
+      "shortcut": "Ctrl + Shift + k",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_039",
+      "category": "Paragraph formatting",
+      "name": "Increase paragraph indentation",
+      "shortcut": "Ctrl + ]",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_040",
+      "category": "Paragraph formatting",
+      "name": "Decrease paragraph indentation",
+      "shortcut": "Ctrl + [",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_041",
+      "category": "Paragraph formatting",
+      "name": "Apply normal text style",
+      "shortcut": "Ctrl + Alt + 0",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_042",
+      "category": "Paragraph formatting",
+      "name": "Apply heading style [1-6]",
+      "shortcut": "Ctrl + Alt + [1-6]",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_043",
+      "category": "Paragraph formatting",
+      "name": "Left align",
+      "shortcut": "Ctrl + Shift + l",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_044",
+      "category": "Paragraph formatting",
+      "name": "Center align",
+      "shortcut": "Ctrl + Shift + e",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_045",
+      "category": "Paragraph formatting",
+      "name": "Right align",
+      "shortcut": "Ctrl + Shift + r",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_046",
+      "category": "Paragraph formatting",
+      "name": "Justify",
+      "shortcut": "Ctrl + Shift + j",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_047",
+      "category": "Paragraph formatting",
+      "name": "Numbered list",
+      "shortcut": "Ctrl + Shift + 7",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_048",
+      "category": "Paragraph formatting",
+      "name": "Bulleted list",
+      "shortcut": "Ctrl + Shift + 8",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_049",
+      "category": "Paragraph formatting",
+      "name": "Checklist",
+      "shortcut": "Ctrl + Shift + 9",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_050",
+      "category": "Paragraph formatting",
+      "name": "Move paragraph up/down",
+      "shortcut": "Ctrl + Shift + Up/down arrow",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_051",
+      "category": "Images and drawings",
+      "name": "Alt text",
+      "shortcut": "Ctrl + Alt + y",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_052",
+      "category": "Images and drawings",
+      "name": "Resize larger",
+      "shortcut": "Ctrl + Alt + k",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_053",
+      "category": "Images and drawings",
+      "name": "Resize larger horizontally",
+      "shortcut": "Ctrl + Alt + b",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_054",
+      "category": "Images and drawings",
+      "name": "Resize larger vertically",
+      "shortcut": "Ctrl + Alt + i",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_055",
+      "category": "Images and drawings",
+      "name": "Resize smaller",
+      "shortcut": "Ctrl + Alt + j",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_056",
+      "category": "Images and drawings",
+      "name": "Resize smaller horizontally",
+      "shortcut": "Ctrl + Alt + w",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_057",
+      "category": "Images and drawings",
+      "name": "Resize smaller vertically",
+      "shortcut": "Ctrl + Alt + q",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_058",
+      "category": "Images and drawings",
+      "name": "Rotate clockwise by 15°",
+      "shortcut": "Alt + Right arrow",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_059",
+      "category": "Images and drawings",
+      "name": "Rotate counterclockwise by 15°",
+      "shortcut": "Alt + Left arrow",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_060",
+      "category": "Images and drawings",
+      "name": "Rotate counterclockwise by 1°",
+      "shortcut": "Alt + Shift + Left arrow",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_061",
+      "category": "Images and drawings",
+      "name": "Rotate clockwise by 1°",
+      "shortcut": "Alt + Shift + Right arrow",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_062",
+      "category": "Images and drawings",
+      "name": "Close drawing editor",
+      "shortcut": "Shift + Esc",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_063",
+      "category": "Comments and footnotes",
+      "name": "Insert comment",
+      "shortcut": "Ctrl + Alt + m",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_064",
+      "category": "Comments and footnotes",
+      "name": "Open discussion thread",
+      "shortcut": "Ctrl + Alt + Shift + a",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_065",
+      "category": "Comments and footnotes",
+      "name": "Enter current comment",
+      "shortcut": "holding Ctrl + Alt, press e then c",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_066",
+      "category": "Comments and footnotes",
+      "name": "Insert footnote",
+      "shortcut": "Ctrl + Alt + f",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_067",
+      "category": "Comments and footnotes",
+      "name": "Move to current footnote",
+      "shortcut": "holding Ctrl + Alt, press e then f",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_068",
+      "category": "Comments and footnotes",
+      "name": "Move to next footnote",
+      "shortcut": "holding Ctrl + Alt, press n then f",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_069",
+      "category": "Comments and footnotes",
+      "name": "Move to previous footnote",
+      "shortcut": "holding Ctrl + Alt, press p then f",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_070",
+      "category": "Comments and footnotes",
+      "name": "Move to next suggestion",
+      "shortcut": "holding Ctrl + Alt, press n then u",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_071",
+      "category": "Comments and footnotes",
+      "name": "Move to previous suggestion",
+      "shortcut": "holding Ctrl + Alt, press p then u",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_072",
+      "category": "Comments and footnotes",
+      "name": "Review suggested edits",
+      "shortcut": "holding Ctrl + Alt, press o then u",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_073",
+      "category": "Comments and footnotes",
+      "name": "Move to next comment",
+      "shortcut": "holding Ctrl + Alt, press n then c",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_074",
+      "category": "Comments and footnotes",
+      "name": "Move to previous comment",
+      "shortcut": "holding Ctrl + Alt, press p then c",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_075",
+      "category": "Comments and footnotes",
+      "name": "Open comment history",
+      "shortcut": "Ctrl + Alt + Shift + a",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_076",
+      "category": "Use keyboard shortcuts on selected comments",
+      "name": "Reply to current comment",
+      "shortcut": "R",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_077",
+      "category": "Use keyboard shortcuts on selected comments",
+      "name": "Move to next comment",
+      "shortcut": "J",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_078",
+      "category": "Use keyboard shortcuts on selected comments",
+      "name": "Move to previous comment",
+      "shortcut": "K",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_079",
+      "category": "Use keyboard shortcuts on selected comments",
+      "name": "Resolve current comment",
+      "shortcut": "E",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_080",
+      "category": "Use keyboard shortcuts on selected comments",
+      "name": "Exit current comment",
+      "shortcut": "U",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_081",
+      "category": "Menus",
+      "name": "Context (right-click) menu",
+      "shortcut": "Ctrl + Shift + x\n\n Ctrl + Shift + \\\n\n Shift + F10",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_082",
+      "category": "Menus",
+      "name": "File menu",
+      "shortcut": "in Google Chrome: Alt + f\n\n other browsers: Alt + Shift + f",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_083",
+      "category": "Menus",
+      "name": "Edit menu",
+      "shortcut": "in Google Chrome: Alt + e\n\n other browsers: Alt + Shift + e",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_084",
+      "category": "Menus",
+      "name": "View menu",
+      "shortcut": "in Google Chrome: Alt + v\n\n other browsers: Alt + Shift + v",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_085",
+      "category": "Menus",
+      "name": "Insert menu",
+      "shortcut": "in Google Chrome: Alt + i\n\n other browsers: Alt + Shift + i",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_086",
+      "category": "Menus",
+      "name": "Format menu",
+      "shortcut": "in Google Chrome: Alt + o\n\n other browsers: Alt + Shift + o",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_087",
+      "category": "Menus",
+      "name": "Tools menu",
+      "shortcut": "in Google Chrome: Alt + t\n\n other browsers: Alt + Shift + t",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_088",
+      "category": "Menus",
+      "name": "Help menu",
+      "shortcut": "in Google Chrome: Alt + h\n\n other browsers: Alt + Shift + h",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_089",
+      "category": "Menus",
+      "name": "Accessibility menu",
+      "shortcut": "in Google Chrome: Alt + a\n\n other browsers: Alt + Shift + a",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_090",
+      "category": "Menus",
+      "name": "Input Tools menu",
+      "shortcut": "Ctrl + Alt + Shift + k",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_091",
+      "category": "Menus",
+      "name": "Show your browser's context menu",
+      "shortcut": "Shift + right-click",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_092",
+      "category": "Text selection with keyboard",
+      "name": "Select all",
+      "shortcut": "Ctrl + a",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_093",
+      "category": "Text selection with keyboard",
+      "name": "Select none",
+      "shortcut": "holding Ctrl + Alt, press u then a",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_094",
+      "category": "Text selection with keyboard",
+      "name": "Extend selection one character",
+      "shortcut": "Shift + Left/right arrow",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_095",
+      "category": "Text selection with keyboard",
+      "name": "Extend selection one line",
+      "shortcut": "Shift + Up/down arrow",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_096",
+      "category": "Text selection with keyboard",
+      "name": "Extend selection one word",
+      "shortcut": "Ctrl + Shift + Left/right arrow",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_097",
+      "category": "Text selection with keyboard",
+      "name": "Extend selection to the beginning of the line",
+      "shortcut": "Shift + Home",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_098",
+      "category": "Text selection with keyboard",
+      "name": "Extend selection to the end of the line",
+      "shortcut": "Shift + End",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_099",
+      "category": "Text selection with keyboard",
+      "name": "Extend selection to the beginning of the document",
+      "shortcut": "Ctrl + Shift + Home",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_100",
+      "category": "Text selection with keyboard",
+      "name": "Extend selection to the end of the document",
+      "shortcut": "Ctrl + Shift + End",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_101",
+      "category": "Text selection with keyboard",
+      "name": "Select current list item",
+      "shortcut": "holding Ctrl + Alt + Shift, press e then i",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_102",
+      "category": "Text selection with keyboard",
+      "name": "Select all list items at current level",
+      "shortcut": "holding Ctrl + Alt + Shift, press e then o",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_103",
+      "category": "Text selection with keyboard",
+      "name": "Select multiple sections of text",
+      "shortcut": "After selecting one section of text, Ctrl + Alt + Shift + Left/right arrow. Use left/right arrow to move to a separate section of text you also want to select.",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_104",
+      "category": "Text selection with mouse",
+      "name": "Select word",
+      "shortcut": "Double-click",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_105",
+      "category": "Text selection with mouse",
+      "name": "Extend selection one word at a time",
+      "shortcut": "Double-click + drag",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_106",
+      "category": "Text selection with mouse",
+      "name": "Select paragraph",
+      "shortcut": "Triple-click",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_107",
+      "category": "Text selection with mouse",
+      "name": "Extend selection one paragraph at a time",
+      "shortcut": "Triple-click + drag",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_108",
+      "category": "Screen reader support",
+      "name": "Enable screen reader support",
+      "shortcut": "Ctrl + Alt + z\n\n Alt + Shift + ~",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_109",
+      "category": "Screen reader support",
+      "name": "Enable braille support",
+      "shortcut": "Ctrl + Alt + h",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_110",
+      "category": "Screen reader support",
+      "name": "Verbalize selection",
+      "shortcut": "holding Ctrl + Alt,press a then x",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_111",
+      "category": "Screen reader support",
+      "name": "Verbalize from cursor location",
+      "shortcut": "holding Ctrl + Alt, press a then r",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_112",
+      "category": "Screen reader support",
+      "name": "Announce cursor location",
+      "shortcut": "holding Ctrl + Alt, press a then l",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_113",
+      "category": "Screen reader support",
+      "name": "Announce formatting at cursor location",
+      "shortcut": "holding Ctrl + Alt, press a then f",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_114",
+      "category": "Screen reader support",
+      "name": "Verbalize table row and column headers",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then h",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_115",
+      "category": "Screen reader support",
+      "name": "Verbalize table cell location",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then n",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_116",
+      "category": "Screen reader support",
+      "name": "Verbalize table row header",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then r",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_117",
+      "category": "Screen reader support",
+      "name": "Verbalize table column header",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then c",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_118",
+      "category": "Screen reader support",
+      "name": "Show live edits",
+      "shortcut": "Ctrl + Alt + Shift + r",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_119",
+      "category": "Screen reader support",
+      "name": "Verbalize comment",
+      "shortcut": "holding Ctrl + Alt, press a then c",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_120",
+      "category": "Screen reader support",
+      "name": "Verbalize comment anchor",
+      "shortcut": "holding Ctrl + Alt, press a then a",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_121",
+      "category": "Screen reader support",
+      "name": "Verbalize selection formatting",
+      "shortcut": "holding Ctrl + Alt, press a then s",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_122",
+      "category": "Screen reader support",
+      "name": "Verbalize cursor location",
+      "shortcut": "holding Ctrl + Alt + Shift, press a then l",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_123",
+      "category": "Screen reader support",
+      "name": "Verbalize word count",
+      "shortcut": "holding Ctrl + Alt + Shift, press a then w",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_124",
+      "category": "Document navigation",
+      "name": "Show outline",
+      "shortcut": "holding Ctrl + Alt, press a then h",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_125",
+      "category": "Document navigation",
+      "name": "Move to next heading",
+      "shortcut": "holding Ctrl + Alt, press n then h",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_126",
+      "category": "Document navigation",
+      "name": "Move to previous heading",
+      "shortcut": "holding Ctrl + Alt, press p then h",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_127",
+      "category": "Document navigation",
+      "name": "Move to next heading [1-6]",
+      "shortcut": "holding Ctrl + Alt, press n then [1-6]",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_128",
+      "category": "Document navigation",
+      "name": "Move to previous heading [1-6]",
+      "shortcut": "holding Ctrl + Alt, press p then [1-6]",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_129",
+      "category": "Document navigation",
+      "name": "Move to next graphic",
+      "shortcut": "holding Ctrl + Alt, press n then g",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_130",
+      "category": "Document navigation",
+      "name": "Move to previous graphic",
+      "shortcut": "holding Ctrl + Alt, press p then g",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_131",
+      "category": "Document navigation",
+      "name": "Move to next list",
+      "shortcut": "holding Ctrl + Alt, press n then o",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_132",
+      "category": "Document navigation",
+      "name": "Move to previous list",
+      "shortcut": "holding Ctrl + Alt, press p then o",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_133",
+      "category": "Document navigation",
+      "name": "Move to next item in the current list",
+      "shortcut": "holding Ctrl + Alt, press n then i",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_134",
+      "category": "Document navigation",
+      "name": "Move to previous item in the current list",
+      "shortcut": "holding Ctrl + Alt, press p then i",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_135",
+      "category": "Document navigation",
+      "name": "Move to next link",
+      "shortcut": "holding Ctrl + Alt, press n then l",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_136",
+      "category": "Document navigation",
+      "name": "Move to previous link",
+      "shortcut": "holding Ctrl + Alt, press p then l",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_137",
+      "category": "Document navigation",
+      "name": "Move to next bookmark",
+      "shortcut": "holding Ctrl + Alt, press n then b",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_138",
+      "category": "Document navigation",
+      "name": "Move to previous bookmark",
+      "shortcut": "holding Ctrl + Alt, press p then b",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_139",
+      "category": "Document navigation",
+      "name": "Move to next formatting change",
+      "shortcut": "holding Ctrl + Alt, press n then w",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_140",
+      "category": "Document navigation",
+      "name": "Move to previous formatting change",
+      "shortcut": "holding Ctrl + Alt, press p then w",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_141",
+      "category": "Document navigation",
+      "name": "Move to next edit",
+      "shortcut": "holding Ctrl + Alt, press n then r\n\n Ctrl + Alt + k",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_142",
+      "category": "Document navigation",
+      "name": "Move to previous edit",
+      "shortcut": "holding Ctrl + Alt, press p then r\n\n Ctrl + Alt + j",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_143",
+      "category": "Document navigation",
+      "name": "Move to next tab",
+      "shortcut": "holding Ctrl + Shift + Pg Down",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_144",
+      "category": "Document navigation",
+      "name": "Move to previous tab",
+      "shortcut": "holding Ctrl + Shift + Pg Up",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_145",
+      "category": "Table navigation",
+      "name": "Move to the start of the table",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then s",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_146",
+      "category": "Table navigation",
+      "name": "Move to the end of the table",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then d",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_147",
+      "category": "Table navigation",
+      "name": "Move to the start of the table column",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then i",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_148",
+      "category": "Table navigation",
+      "name": "Move to the end of the table column",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then k",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_149",
+      "category": "Table navigation",
+      "name": "Move to the next table column",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then b",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_150",
+      "category": "Table navigation",
+      "name": "Move to the previous table column",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then v",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_151",
+      "category": "Table navigation",
+      "name": "Move to the start of the table row",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then j",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_152",
+      "category": "Table navigation",
+      "name": "Move to the end of the table row",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then l",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_153",
+      "category": "Table navigation",
+      "name": "Move to the next table row",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then m",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_154",
+      "category": "Table navigation",
+      "name": "Move to the previous table row",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then g",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_155",
+      "category": "Table navigation",
+      "name": "Exit table",
+      "shortcut": "holding Ctrl + Alt + Shift, press t then e",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_156",
+      "category": "Table navigation",
+      "name": "Move to the next table",
+      "shortcut": "holding Ctrl + Alt + Shift, press n then t",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_157",
+      "category": "Table navigation",
+      "name": "Move to the previous table",
+      "shortcut": "holding Ctrl + Alt + Shift, press p then t",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_158",
+      "category": "Other tools and navigation",
+      "name": "Open revision history",
+      "shortcut": "Ctrl + Alt + Shift + h",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_159",
+      "category": "Other tools and navigation",
+      "name": "Open Explore tool",
+      "shortcut": "Ctrl + Alt + Shift + i",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_160",
+      "category": "Other tools and navigation",
+      "name": "Open spelling/grammar",
+      "shortcut": "Ctrl + Alt + x\n\n F7",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_161",
+      "category": "Other tools and navigation",
+      "name": "Open dictionary",
+      "shortcut": "Ctrl + Shift + y",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_162",
+      "category": "Other tools and navigation",
+      "name": "Word count",
+      "shortcut": "Ctrl + Shift + c",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_163",
+      "category": "Other tools and navigation",
+      "name": "Start voice typing",
+      "shortcut": "Ctrl + Shift + s",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_164",
+      "category": "Other tools and navigation",
+      "name": "Go to side panel",
+      "shortcut": "Ctrl + Alt + .\n\n Ctrl + Alt + ,",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_165",
+      "category": "Other tools and navigation",
+      "name": "Page up",
+      "shortcut": "Page Up",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_166",
+      "category": "Other tools and navigation",
+      "name": "Page down",
+      "shortcut": "Page Down",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_167",
+      "category": "Other tools and navigation",
+      "name": "Move to next misspelling",
+      "shortcut": "Ctrl + '",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_168",
+      "category": "Other tools and navigation",
+      "name": "Move to previous misspelling",
+      "shortcut": "Ctrl + ;",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_169",
+      "category": "Other tools and navigation",
+      "name": "Insert or move to header",
+      "shortcut": "holding Ctrl + Alt, press o then h",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_170",
+      "category": "Other tools and navigation",
+      "name": "Insert or move to footer",
+      "shortcut": "holding Ctrl + Alt, press o then f",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_171",
+      "category": "Other tools and navigation",
+      "name": "Move focus to popup",
+      "shortcut": "holding Ctrl + Alt, press e then p",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_172",
+      "category": "Other tools and navigation",
+      "name": "Move focus out of editing area",
+      "shortcut": "Ctrl + Alt + Shift + m",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_173",
+      "category": "Other tools and navigation",
+      "name": "Show person or group info",
+      "shortcut": "Alt + Right arrow",
+      "status": "documented_not_live_verified"
+    },
+    {
+      "id": "PC_174",
+      "category": "Other tools and navigation",
+      "name": "Toggle a checkbox",
+      "shortcut": "Ctrl + Alt + Enter",
+      "status": "documented_not_live_verified"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": "0.5.0-preview",
+  "google_docs_ui_verified": true,
+  "verified_tables": [
+    {
+      "rows": 2,
+      "columns": 3,
+      "all_cell_text_verified": true
+    },
+    {
+      "rows": 8,
+      "columns": 3,
+      "first_and_last_cell_verified": true
+    }
+  ],
+  "character_by_character_typing": true,
+  "clipboard_paste_used": false,
+  "exit_table_verified": true,
+  "local_tests_passed": 34,
+  "windows_exe_end_to_end_verified": false,
+  "complex_format_fidelity_verified": false
+}
