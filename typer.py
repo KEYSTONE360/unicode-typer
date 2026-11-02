@@ -5,6 +5,7 @@ import threading
 import time
 import tkinter as tk
 from tkinter import ttk, messagebox
+from timing import parse_interval_ms, parse_delay_seconds
 
 u = ctypes.WinDLL('user32', use_last_error=True)
 ULONG_PTR = ctypes.c_size_t
@@ -70,11 +71,12 @@ class App:
         self.delay_box.pack(side='left', padx=(8, 20))
         ttk.Label(settings, text='글자 간격(ms)').pack(side='left')
         self.interval = tk.StringVar(value='50')
-        self.interval_box = ttk.Spinbox(settings, from_=1, to=5000, textvariable=self.interval, width=7)
+        self.interval_box = ttk.Spinbox(settings, from_=0.01, to=5000, increment=0.1, textvariable=self.interval, width=9)
         self.interval_box.pack(side='left', padx=8)
         ttk.Button(settings, text='느리게', command=lambda: self.interval.set('150')).pack(side='left', padx=(8, 3))
         ttk.Button(settings, text='보통', command=lambda: self.interval.set('50')).pack(side='left', padx=3)
         ttk.Button(settings, text='빠르게', command=lambda: self.interval.set('10')).pack(side='left', padx=3)
+        ttk.Label(frame, text='소수점 간격 가능: 0.5 / 12.5ms · 1000ms = 1초 · 실제 속도는 대상 앱 처리시간에 따라 달라집니다.', foreground='#555555', wraplength=700).pack(anchor='w', pady=(0, 10))
         buttons = ttk.Frame(frame)
         buttons.pack(fill='x')
         self.start_button = tk.Button(buttons, text='▶  타이핑 시작', command=self.start, font=('맑은 고딕', 14, 'bold'), bg='#146C43', fg='white', activebackground='#105535', activeforeground='white', relief='flat', cursor='hand2')
@@ -96,12 +98,11 @@ class App:
             messagebox.showinfo('입력 필요', '타이핑할 글을 입력하십시오.')
             return
         try:
-            delay, interval = float(self.delay.get()), float(self.interval.get())
-            if not (1 <= delay <= 60 and 1 <= interval <= 5000):
-                raise ValueError()
+            delay = parse_delay_seconds(self.delay.get())
+            interval = parse_interval_ms(self.interval.get())
             text.encode('utf-16-le')
-        except (ValueError, UnicodeError):
-            messagebox.showerror('설정 확인', '대기는 1~60초, 글자 간격은 1~5000ms로 입력하십시오.')
+        except (ValueError, UnicodeError) as exc:
+            messagebox.showerror('설정 확인', str(exc))
             return
         self.stop.clear()
         self.running = True
